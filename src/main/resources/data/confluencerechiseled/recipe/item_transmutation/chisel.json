@@ -1,0 +1,12 @@
+{
+  "type": "confluence:item_transmutation",
+  "source": {
+    "item": "rechiseled:chisel"
+  },
+  "target": [
+    {
+      "count": 1,
+      "id": "terra_curio:ancient_chisel"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "block": "confluence:sun_plate",
+      "slab": "confluence:sun_plate_slab",
+      "slab_worth": 0.5,
+      "stairs": "confluence:sun_plate_stairs"
+    },
+    {
+      "block": "confluence:disc_block",
+      "block_worth": 0.25,
+      "slab": "confluence:disc_slab",
+      "slab_worth": 0.125,
+      "stairs": "confluence:disc_stairs",
+      "stairs_worth": 0.25
+    }
+  ],
+  "overwrite": false
+}

@@ -1,0 +1,13 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "block": "confluence:shadow_planks",
+      "slab": "confluence:shadow_slab",
+      "slab_worth": 0.5,
+      "stairs": "confluence:shadow_stairs"
+    },
+    "confluence:chiseled_shadow_planks"
+  ],
+  "overwrite": false
+}

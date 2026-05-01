@@ -1,0 +1,13 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "block": "confluence:chiseled_baobab_planks",
+      "slab": "confluence:baobab_slab",
+      "slab_worth": 0.5,
+      "stairs": "confluence:baobab_stairs"
+    },
+    "confluence:chiseled_baobab_planks"
+  ],
+  "overwrite": false
+}

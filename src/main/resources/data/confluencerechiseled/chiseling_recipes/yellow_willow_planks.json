@@ -1,0 +1,13 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "block": "confluence:yellow_willow_planks",
+      "slab": "confluence:yellow_willow_slab",
+      "slab_worth": 0.5,
+      "stairs": "confluence:yellow_willow_stairs"
+    },
+    "confluence:chiseled_yellow_willow_planks"
+  ],
+  "overwrite": false
+}

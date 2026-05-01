@@ -1,0 +1,13 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "block": "confluence:fey_planks",
+      "slab": "confluence:fey_slab",
+      "slab_worth": 0.5,
+      "stairs": "confluence:fey_stairs"
+    },
+    "confluence:chiseled_fey_planks"
+  ],
+  "overwrite": false
+}

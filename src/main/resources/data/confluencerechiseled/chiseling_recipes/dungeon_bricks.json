@@ -1,0 +1,35 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "block": "confluence:pink_bricks",
+      "slab": "confluence:pink_brick_slab",
+      "slab_worth": 0.5,
+      "stairs": "confluence:pink_brick_stairs"
+    },
+    "confluence:cracked_pink_bricks",
+    "confluence:pink_brick_column",
+    "confluence:chiseled_pink_bricks",
+
+    {
+      "block": "confluence:blue_bricks",
+      "slab": "confluence:blue_brick_slab",
+      "slab_worth": 0.5,
+      "stairs": "confluence:blue_brick_stairs"
+    },
+    "confluence:cracked_blue_bricks",
+    "confluence:blue_brick_column",
+    "confluence:chiseled_blue_bricks",
+
+    {
+      "block": "confluence:green_bricks",
+      "slab": "confluence:green_brick_slab",
+      "slab_worth": 0.5,
+      "stairs": "confluence:green_brick_stairs"
+    },
+    "confluence:cracked_green_bricks",
+    "confluence:green_brick_column",
+    "confluence:chiseled_green_bricks"
+  ],
+  "overwrite": false
+}

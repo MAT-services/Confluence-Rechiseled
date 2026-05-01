@@ -1,0 +1,11 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    "confluence:polished_granite",
+    "confluence:granite_bricks",
+    "confluence:cracked_granite_bricks",
+    "confluence:granite_column",
+    "confluence:chiseled_granite_bricks"
+  ],
+  "overwrite": false
+}

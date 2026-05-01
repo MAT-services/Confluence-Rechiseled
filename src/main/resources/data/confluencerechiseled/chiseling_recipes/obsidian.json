@@ -1,0 +1,27 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    "minecraft:obsidian",
+    {
+      "block": "confluence:obsidian_bricks",
+      "block_worth": 0.25,
+      "slab": "confluence:obsidian_bricks_slab",
+      "slab_worth": 0.125,
+      "stairs": "confluence:obsidian_bricks_stairs",
+      "stairs_worth": 0.25
+    },
+    {
+      "block": "confluence:smooth_obsidian",
+      "block_worth": 0.25
+    },
+    {
+      "block": "confluence:obsidian_small_bricks",
+      "block_worth": 0.25
+    },
+    {
+      "block": "confluence:chiseled_obsidian_bricks",
+      "block_worth": 0.25
+    }
+  ],
+  "overwrite": false
+}

@@ -1,0 +1,13 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "block": "confluence:palm_planks",
+      "slab": "confluence:palm_slab",
+      "slab_worth": 0.5,
+      "stairs": "confluence:palm_stairs"
+    },
+    "confluence:chiseled_palm_planks"
+  ],
+  "overwrite": false
+}

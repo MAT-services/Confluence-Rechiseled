@@ -1,0 +1,8 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    "confluence:crimsandstone",
+    "confluence:hardened_crimsand_block"
+  ],
+  "overwrite": false
+}

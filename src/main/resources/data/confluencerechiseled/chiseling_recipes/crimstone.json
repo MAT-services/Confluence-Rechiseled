@@ -1,0 +1,13 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "block": "confluence:crimstone_bricks",
+      "slab": "confluence:crimstone_bricks_slab",
+      "slab_worth": 0.5,
+      "stairs": "confluence:crimstone_bricks_stairs"
+    },
+    "confluence:crimstone"
+  ],
+  "overwrite": false
+}

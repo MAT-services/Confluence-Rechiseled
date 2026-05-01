@@ -1,0 +1,14 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    "confluence:marble",
+    "confluence:marble_column",
+    "confluence:marble_bricks",
+    "confluence:cracked_marble_bricks",
+    "confluence:marble_chessboard_bricks",
+    "confluence:marble_eternal_chessboard_bricks",
+    "confluence:chiseled_marble_bricks",
+    "confluence:polished_marble"
+  ],
+  "overwrite": false
+}

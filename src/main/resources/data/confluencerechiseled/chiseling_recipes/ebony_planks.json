@@ -1,0 +1,13 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "block": "confluence:ebony_planks",
+      "slab": "confluence:ebony_slab",
+      "slab_worth": 0.5,
+      "stairs": "confluence:ebony_stairs"
+    },
+    "confluence:chiseled_ebony_planks"
+  ],
+  "overwrite": false
+}

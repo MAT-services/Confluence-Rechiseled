@@ -1,0 +1,8 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    "minecraft:spruce_planks",
+    "confluence:chiseled_spruce_planks"
+  ],
+  "overwrite": false
+}

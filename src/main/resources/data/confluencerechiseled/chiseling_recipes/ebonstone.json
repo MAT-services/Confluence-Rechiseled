@@ -1,0 +1,13 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "block": "confluence:ebonstone_bricks",
+      "slab": "confluence:ebonstone_bricks_slab",
+      "slab_worth": 0.5,
+      "stairs": "confluence:ebonstone_bricks_stairs"
+    },
+    "confluence:ebonstone"
+  ],
+  "overwrite": false
+}

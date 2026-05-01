@@ -1,0 +1,13 @@
+{
+  "itemGroup.confluencerechiseled": "Example Mod Tab",
+  "block.confluencerechiseled.example_block": "Example Block",
+  "item.confluencerechiseled.example_item": "Example Item",
+
+  "confluencerechiseled.configuration.title": "Confluence: Rechiseled Configs",
+  "confluencerechiseled.configuration.section.confluencerechiseled.common.toml": "Confluence: Rechiseled Configs",
+  "confluencerechiseled.configuration.section.confluencerechiseled.common.toml.title": "Confluence: Rechiseled Configs",
+  "confluencerechiseled.configuration.items": "Item List",
+  "confluencerechiseled.configuration.logDirtBlock": "Log Dirt Block",
+  "confluencerechiseled.configuration.magicNumberIntroduction": "Magic Number Text",
+  "confluencerechiseled.configuration.magicNumber": "Magic Number"
+}

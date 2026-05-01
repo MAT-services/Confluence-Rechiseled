@@ -1,0 +1,13 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "block": "confluence:living_mahogany_planks",
+      "slab": "confluence:living_mahogany_slab",
+      "slab_worth": 0.5,
+      "stairs": "confluence:living_mahogany_stairs"
+    },
+    "confluence:chiseled_living_mahogany_planks"
+  ],
+  "overwrite": false
+}

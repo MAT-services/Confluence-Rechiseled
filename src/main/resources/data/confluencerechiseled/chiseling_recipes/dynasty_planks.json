@@ -1,0 +1,13 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "block": "confluence:dynasty_planks",
+      "slab": "confluence:dynasty_slab",
+      "slab_worth": 0.5,
+      "stairs": "confluence:dynasty_stairs"
+    },
+    "confluence:chiseled_dynasty_planks"
+  ],
+  "overwrite": false
+}
