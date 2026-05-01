@@ -1,7 +1,7 @@
 # Confluence Rechiseled
 This mod act as a coherence bridge enter Confluence: Otherworld and Rechiseled.
 
-[![View on Modrinth](https://raw.githubusercontent.com/gabrielvicenteYT/modrinth-icons/refs/heads/main/Branding/Badge/badge-light.svg)](https://modrinth.com/project/fx7zqu5n) [![View on CurseForge]()](https://www.curseforge.com/minecraft/mc-mods/confluence-rechiseled)
+[![View on Modrinth](https://raw.githubusercontent.com/gabrielvicenteYT/modrinth-icons/refs/heads/main/Branding/Badge/badge-light.svg)](https://modrinth.com/project/fx7zqu5n) [<img width="220" alt="View on_CurseForge" src="https://github.com/user-attachments/assets/3e56a244-6c4a-46dc-9810-dc70ec12d8dc" />](https://www.curseforge.com/minecraft/mc-mods/confluence-rechiseled)
 
 ![Separator](https://cdn.modrinth.com/data/cached_images/ed0ae73f5dcbe55e089ca8eba54f9c5fdbeb9cf4.png)
 ## Chisel uses
