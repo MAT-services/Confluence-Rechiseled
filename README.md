@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+  <img alt="Confluence Rechiseled" src="art/header-light.png">
+</picture>
+
 # Confluence Rechiseled
 This mod act as a coherence bridge enter Confluence: Otherworld and Rechiseled.
 
